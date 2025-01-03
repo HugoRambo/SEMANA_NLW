@@ -71,7 +71,7 @@ ScrollReveal({
   #home img, 
   #home .stats, 
   #services,
-  #services header,
+  #services header, Vg35YffWPG
   #services .card
   #about, 
   #about header, 
